@@ -245,6 +245,9 @@
   "DigitalBrainstem.javascript-ejs-support": {
     "repository": "https://github.com/Digitalbrainstem/ejs-grammar"
   },
+  "DoHe.godot-format": {
+    "repository": "https://github.com/DoHe/godot-formatter-vscode"
+  },
   "donjayamanne.git-extension-pack": {
     "repository": "https://github.com/DonJayamanne/git-extension-pack"
   },
